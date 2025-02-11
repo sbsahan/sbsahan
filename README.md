@@ -14,12 +14,6 @@ I'm a self-taught dev from Turkey. I enjoy anything computing-related—if it ca
 - 🚀 **Java, Python, C++**  
 - 🛜 **Networking stuff**  
 
-## 🎭 Other Interests:
-- 🚋 **Public transportation & urban planning**  
-- 📻 **Vintage tech & retro computing**  
-- 🎸 **Playing bass** (badly)  
-- 🏹 **Archery** 
-
 ---
 
 > "A jack of all trades is a master of none, but oftentimes better than master of one."  
