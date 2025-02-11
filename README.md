@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello! Hi! Welcome! 👋
 
-<!--
-**sbsahan/sbsahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught dev from Turkey. I enjoy anything computing-related—if it can run Linux, then I want it. 🐧  
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on:
+- 🤖 **FRC**: Programmer @ [FRC Team Integra 3646](https://www.thebluealliance.com/team/3646)  
+- 🎮 **Didj hacking**: One day I'll be done with this  
+- 🛠️ **Perfecting my Linux setup** (it's never really done)  
+- 📊 **Working with datasets**: Messing around with IBB/TUIK datasets. Huge enjoyer of public transportation! (IBB I'm begging please add real-time info)  
+- 🏛️ **Gopher protocol advocate**: Simplicity goes hard.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I Use:
+- 💻 **Linux, Windows & Mac** (gotta catch 'em all, right?)  
+- 🚀 **Java, Python, C++**  
+- 🛜 **Networking stuff**  
+
+## 🎭 Other Interests:
+- 🚋 **Public transportation & urban planning**  
+- 📻 **Vintage tech & retro computing**  
+- 🎸 **Playing bass** (badly)  
+- 🏹 **Archery** 
+
+---
+
+> "A jack of all trades is a master of none, but oftentimes better than master of one."  
