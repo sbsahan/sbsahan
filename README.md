@@ -10,11 +10,6 @@ I'm a self-taught dev from Turkey. I enjoy anything computing-related, if it can
 - **Gopher protocol advocate**: Simplicity goes hard.
 - **Learning game developement!**
 
-## 🛠️ Tech I Use:
-- **Linux, Windows & Mac** (gotta catch 'em all, right?)  
-- **Java, Python, C++**  
-- **Networking stuff**  
-
 ---
 
 > "A jack of all trades is a master of none, but oftentimes better than master of one."  
