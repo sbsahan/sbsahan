@@ -1,6 +1,6 @@
 # Hello! Hi! Welcome! 👋
 
-I'm a self-taught dev from Turkey. I enjoy anything computing-related, if it can run Linux, then I want it. 🐧  
+I'm a self-taught dev from Turkey. I enjoy anything computing or robotics-related! 
 
 ## 🚀 Things I'm working on:
 - **FRC**: Programmer @ [FRC Team Integra 3646](https://www.thebluealliance.com/team/3646)  
